@@ -1,4 +1,4 @@
-import ServiceCard from "../components/serviceCard";
+import ServiceCard from "../components/ServiceCard";
 import Title from "../components/Title";
 import {
   faArrowsRotate,
